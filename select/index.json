@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Wood",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-03-06T08:08:54.466709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Knock On Wood (Live)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/01_Knock_On_Wood_(Live)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wood Would",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/02_Wood_Would_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "And the Wood Comes Into Leaf",
+      "artist": "Love Spirals Downwards",
+      "has_synced": false,
+      "path": "select/03_And_the_Wood_Comes_Into_Leaf_Love_Spirals_Downwards.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Norwegian Wood (feat. Luca Santucci)",
+      "artist": "Leila",
+      "has_synced": false,
+      "path": "select/04_Norwegian_Wood_(feat._Luca_Santucci)_Leila.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Norwegian Wood",
+      "artist": "Leila",
+      "has_synced": false,
+      "path": "select/05_Norwegian_Wood_Leila.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Face of Wood",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/06_Face_of_Wood_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ashes from Your Burning Wood",
+      "artist": "Orion Rigel Dommisse",
+      "has_synced": true,
+      "path": "select/07_Ashes_from_Your_Burning_Wood_Orion_Rigel_Dommisse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bluebell Wood",
+      "artist": "Wimple Winch",
+      "has_synced": false,
+      "path": "select/08_Bluebell_Wood_Wimple_Winch.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Knock on Wood",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/09_Knock_on_Wood_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Solid Wood",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/10_Solid_Wood_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wood & Leather",
+      "artist": "Ty Dolla $ign feat. Big TC & Pops",
+      "has_synced": true,
+      "path": "select/11_Wood_&_Leather_Ty_Dolla_$ign_feat._Big_TC_&_Pops.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wood & Leather",
+      "artist": "Ty Dolla Sign",
+      "has_synced": true,
+      "path": "select/12_Wood_&_Leather_Ty_Dolla_Sign.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wood Beez",
+      "artist": "Scritti Politti",
+      "has_synced": true,
+      "path": "select/13_Wood_Beez_Scritti_Politti.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wood Beez (Pray Like Aretha Franklin) (version)",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/14_Wood_Beez_(Pray_Like_Aretha_Franklin)_(version)_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Frosted Flake Wood - Live Album Version",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/15_Frosted_Flake_Wood_-_Live_Album_Version_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Frosted Flake Wood (Live)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/16_Frosted_Flake_Wood_(Live)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wood",
+      "artist": "Aereogramme",
+      "has_synced": false,
+      "path": "select/17_Wood_Aereogramme.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wood",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_01_Wood_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Wood",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_02_Wood_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Wood",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_03_Wood_テイラー・スウィフト.txt"
+    }
+  ]
+}
